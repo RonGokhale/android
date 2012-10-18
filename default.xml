@@ -30,10 +30,9 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="device/lge/p350" name="TeamPecan/android_device_lge_p350" remote="github" revision="ics" />
-  <project path="device/lge/pecan" name="TeamPecan/cm_device_lge_pecan" remote="github" revision="ics" />
+  <project path="device/lge/p350" name="PecanCM/android_device_lge_p350" remote="github" revision="ics" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="kernel/lge/msm7x27" name="TeamPecan/Team-Pecan-kernel" remote="github" revision="ics" />
+  <project path="kernel/lge/msm7x27" name="PecanCM/lge_kernel_pecan" remote="github" revision="ics" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -275,5 +274,5 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="TeamPecan/android" />
+  <project path="android" name="PecanCM/android" />
 </manifest>
