@@ -33,7 +33,7 @@
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/lge/p350" name="PecanCM/android_device_lge_p350" remote="github" revision="ics" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="kernel/lge/msm7x27" name="PecanCM/lge_kernel_pecan" remote="github" revision="ics" />
+  <project path="kernel/lge/p350" name="PecanCM/lge-kernel-pecan" remote="github" revision="ics" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
