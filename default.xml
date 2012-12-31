@@ -274,4 +274,6 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="PecanCM/android" />
+  <project path="device/lge/p350" name="PecanCM/android_device_lge_p350" />
+  <project path="kernel/lge/p350" name="PecanCM/lge-kernel-pecan" />
 </manifest>
