@@ -6,7 +6,7 @@
 
   <remote  name="github"
            fetch=".."
-           review="http://review.pecancm.insomnia247.nl/" />
+           review="review.pecancm.insomnia247.nl/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
