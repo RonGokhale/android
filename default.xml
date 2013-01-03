@@ -254,7 +254,6 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="vendor/cm" name="PecanCM/android_vendor_cm" />
-  <project path="vendor/lge" name="PecanCM/cm_vendor_lge" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="PecanCM/android_vendor_qcom_opensource_omx_mm-core" remote="github" revision="cm-9.1.0" />
@@ -274,6 +273,4 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="PecanCM/android" />
-  <project path="device/lge/p350" name="PecanCM/android_device_lge_p350" />
-  <project path="kernel/lge/p350" name="PecanCM/lge-kernel-pecan" />
 </manifest>
