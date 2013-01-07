@@ -40,12 +40,8 @@ Then to sync up:
 
 Please see the [PecanCM Wiki](http://wiki.cyanogenmod.org/) for building instructions.
 
-For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.cyanogenmod.org/index.php/Github_Organization)
 
-Buildbot
+Build Server
 --------
-
-All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
 
 You can view the current build statuses at [PecanCM Jenkins](http://builder.pecancm.insomnia247.nl/)
