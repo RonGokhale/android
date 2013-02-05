@@ -278,5 +278,7 @@
   
   <!-- we support htc runnymede (sensation xl) now -->
   <project path="device/htc/runnymede" name="lexmazter/android_device_runnymede/" />
-  <project path="vendor/htc/runnymede" name="lexmazter/android_vendor_htc_runnymede" revision="refs/heads/jellybean"  />    
+  <project path="vendor/htc/runnymede" name="lexmazter/android_vendor_htc_runnymede" revision="refs/heads/jellybean" />
+  <project path="device/htc/runnymede" name="CyanogenMod/android_device_htc_msm7x30-common" />
+  
   </manifest>
