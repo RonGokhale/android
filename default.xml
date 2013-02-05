@@ -6,7 +6,7 @@
 
   <remote  name="github"
            fetch=".."
-           review="review.pecancm.insomnia247.nl" />
+           review="review.pecancm.org" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
@@ -275,4 +275,10 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="PecanCM/android" />
-</manifest>
+  
+  <!-- we support htc runnymede (sensation xl) now -->
+  <project path="device/htc/runnymede" name="lexmazter/android_device_runnymede/" />
+  <project path="vendor/htc/runnymede" name="lexmazter/android_vendor_htc_runnymede" />
+  <project path="kernel/htc/runnymede" name="lexmazter/android_vendor_htc_runnymede" />
+    
+  </manifest>
