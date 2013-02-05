@@ -278,7 +278,5 @@
   
   <!-- we support htc runnymede (sensation xl) now -->
   <project path="device/htc/runnymede" name="lexmazter/android_device_runnymede/" />
-  <project path="vendor/htc/runnymede" name="lexmazter/android_vendor_htc_runnymede" />
-  <project path="kernel/htc/runnymede" name="lexmazter/android_vendor_htc_runnymede" />
-    
+  <project path="vendor/htc/runnymede" name="lexmazter/android_vendor_htc_runnymede" />    
   </manifest>
